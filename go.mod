@@ -6,6 +6,7 @@ require (
 	github.com/FZambia/sentinel v1.1.0
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1384
 	github.com/apache/rocketmq-client-go/v2 v2.1.0
+	github.com/arangodb/go-driver v1.3.3
 	github.com/eclipse/paho.mqtt.golang v1.3.5
 	github.com/gomodule/redigo v1.8.6
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
