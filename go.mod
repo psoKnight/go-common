@@ -3,6 +3,7 @@ module github.com/psoKnight/go-common
 go 1.15
 
 require (
+	github.com/ClickHouse/clickhouse-go/v2 v2.2.0
 	github.com/FZambia/sentinel v1.1.0
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1732
 	github.com/apache/rocketmq-client-go/v2 v2.1.1
