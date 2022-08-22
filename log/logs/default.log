@@ -1,0 +1,18 @@
+2022-08-25 10:22:26.894	INFO	This is a Info.
+2022-08-25 10:22:26.922	INFO	This is a Infof, str: infof.
+2022-08-25 10:22:26.922	DEBUG	This is a Debug.
+2022-08-25 10:22:26.922	DEBUG	This is a Debugf, str: debugf.
+2022-08-25 10:22:26.922	ERROR	This is a Error.
+github.com/psoKnight/go-common/log.Error
+	D:/GolandProjects/sunguangzong/go-common/log/logger.go:83
+github.com/psoKnight/go-common/log.TestLoggerDefault
+	D:/GolandProjects/sunguangzong/go-common/log/logger_test.go:23
+testing.tRunner
+	D:/Go/src/testing/testing.go:1259
+2022-08-25 10:22:26.922	ERROR	This is a Errorf, str: errorf.
+github.com/psoKnight/go-common/log.Errorf
+	D:/GolandProjects/sunguangzong/go-common/log/logger.go:86
+github.com/psoKnight/go-common/log.TestLoggerDefault
+	D:/GolandProjects/sunguangzong/go-common/log/logger_test.go:24
+testing.tRunner
+	D:/Go/src/testing/testing.go:1259
