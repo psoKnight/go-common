@@ -18,6 +18,7 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/sirupsen/logrus v1.9.0
 	github.com/vmihailenco/msgpack/v4 v4.3.12
+	github.com/ybzhanghx/copier v0.0.0-20201016031042-c365a74ca62d
 	go.etcd.io/etcd/api/v3 v3.5.4
 	go.etcd.io/etcd/client/v3 v3.5.4
 	go.uber.org/zap v1.17.0
