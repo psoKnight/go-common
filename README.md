@@ -38,6 +38,7 @@ Golang 公共封装库。
 │   ├── pool_util   //  并发协程池
 │   ├── rand_util   // 随机数 
 │   ├── semaphore_util   // 并发信号量 
+├── cron_task  // 任务调度基础封装库
 ```
 
 ## 包规范
@@ -48,3 +49,4 @@ Golang 公共封装库。
 
 - v1.0.0：增加arangodb、cache、clickhouse、elasticsearch、etcd、grpc、http、kafka、log、mqtt（包括mqtt 和alibaba
   mqtt）、mysql、redis、rocketmq、seaweed-fs、utils 基础封装库；
+- v1.0.1：增加cron_task 基础封装库；
