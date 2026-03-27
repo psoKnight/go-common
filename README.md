@@ -1,7 +1,6 @@
 # go-common
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/psoKnight/go-common)](https://goreportcard.com/report/github.com/psoKnight/go-common)
-[![Master](https://github.com/psoKnight/go-common/workflows/Go/badge.svg)](https://github.com/psoKnight/go-common/actions)
 
 Golang 公共封装库。
 
