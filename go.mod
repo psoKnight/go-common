@@ -13,6 +13,7 @@ require (
 	github.com/eclipse/paho.mqtt.golang v1.4.1
 	github.com/gomodule/redigo v1.8.9
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
+	github.com/milvus-io/milvus-sdk-go/v2 v2.2.7
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/pkg/errors v0.9.1
 	github.com/robfig/cron/v3 v3.0.1
